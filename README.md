@@ -13,4 +13,8 @@ Dataset from [教育部校園食材登陸平台](https://fatraceschool.k12ea.gov
 Transfer learning from InceptionResnetV2
 
 ## Result
-<img src=.result/food-101-keras+balance+medsize+InceptionResNetV2_ConfusionMatrix.png width=80% />
+<img src="result/food-101-keras+balance+medsize+InceptionResNetV2_loss (1).png" width=40% />
+<img src="result/food-101-keras+balance+medsize+InceptionResNetV2_acc (1).png" width=40% />
+<img src="result/food-101-keras+balance+medsize+InceptionResNetV2_top_5_acc (1).png" width=40% />
+<img src="result/food-101-keras+balance+medsize+InceptionResNetV2_Test.png" width=40% />
+<img src=result/food-101-keras+balance+medsize+InceptionResNetV2_ConfusionMatrix.png width=40% />
